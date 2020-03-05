@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    background-color: #d4d4d4;
+}
+
+nav{
+    background-color: #272727;
+}
+
+
+main{
+    padding-bottom: 100px;
+}
+.about_me > img{
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+    object-position: 0 -20px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.about_me > p{
+    text-align: center;
+}
+
+
+.about_me_info{
+    background-color: #fbfbfb;
+    border-radius: 5px;
+    box-shadow: #272727 10px 10px 0;
+
+}
+.hide_main_access{
+    display: none;
+}
+
+.btn-hover-text:hover{
+    color:#f8f9fa!important;
+}
+
+footer{
+    background-color: #272727;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+

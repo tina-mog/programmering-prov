@@ -1,0 +1,10 @@
+
+    @media only screen and (max-width: 600px) {
+        .about_me_info{
+            box-shadow: none;
+            margin-left: 10px;
+            margin-right: 10px;
+        }
+      }
+
+      
